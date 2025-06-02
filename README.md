@@ -20,3 +20,6 @@
 |2025/04/29| [第十周 　作業九](./0422使用Microsoft_Bing_Create生成喜歡的風格圖片.ipynb)| 完成|
 |2025/04/29| [第十一周 作業十](./0429打造我Stable_Diffusion的WebAPP.ipynb)| 完成|
 |2025/05/06| [第十二周 作業十一](./0506在colab上使用fooocus_colab.ipynb)| 完成| 
+|2025/05/13| [第十三周 作業十二](./0506在colab上使用fooocus_colab.ipynb)| 未完成| 
+|2025/05/20| [第十四周 無作業]| 無| 
+|2025/05/27| [第十五周 期末作業](./0506在colab上使用fooocus_colab.ipynb)| 未完成| 
